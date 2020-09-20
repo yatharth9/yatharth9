@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yatharth9/yatharth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, Yatharth here. I am currently not very active on Github, and am working on some projects. Reach out to me via my [Twitter](https://twitter.com/iyatharthshah/).
